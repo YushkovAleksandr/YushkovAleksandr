@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(230, 230, 230);
+}
+
+h1 {
+  font-size: 31px;
+}
+
+.list {
+  width: 800px;
+  height: 1130px;
+  margin: 12px auto;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgb(187, 187, 187);
+}
+
+.block {
+  width: 615px;
+  margin: 75px 120px;
+}
+
+.line {
+  margin: 32px 0 23px 0;
+  background-color: rgb(161, 156, 156);
+  border: none;
+  height: 2px;
+}
+
+.table {
+  width: 100%;
+}
+
+#py_logo {
+  float: right;
+}
+
+#contents_link {
+  text-align: center;
+}
+
+#next_page_link {
+  text-align: right;
+}
