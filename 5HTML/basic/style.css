@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(230, 230, 230);
+}
+
+.page {
+  width: 679px;
+  height: 1110px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 57px 10px 58px;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgb(187, 187, 187);
+}
+
+.tips {
+  font-style: italic;
+}
+
+.shorted_input_upload {
+  width: 53px;
+}
+
+.shorted_input_search {
+  width: 110px;}
+
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+table td {
+  vertical-align: top;
+}
